@@ -1,4 +1,4 @@
-package com.example.rasmitha.myapplication1;
+package com.example.rasmitha.myapplication2;
 
 import org.junit.Test;
 
